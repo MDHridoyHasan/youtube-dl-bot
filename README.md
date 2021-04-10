@@ -1,4 +1,4 @@
-# Home Downloader Telegram Bot
+# Youtube Downloader Telegram Bot
 Telegram Bot based on youtube-dl devised to download media contents from the web.  
 [The whole story behind this project](https://alerom90.medium.com/how-i-made-my-girlfriend-happy-with-a-simple-telegram-bot-2be8e4b150e7?source=friends_link&sk=742b5296b19b0eae0e7f8827dbc747f4).
 
